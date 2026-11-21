@@ -1,0 +1,4 @@
+pymupdf
+groq
+python-dotenv
+fpdf2
