@@ -236,6 +236,3 @@ Not used on purpose: locks, semaphores and barriers (shards share no memory, the
 
 Semantic retrieval with embeddings, persistent connections between master and shards, OCR for scanned documents, a multi-machine deployment, and multithreaded shard servers.
 
-## License
-
-Add a license of your choice (for example MIT) before publishing.
